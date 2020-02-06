@@ -33,7 +33,30 @@ class Main extends React.Component {
             <img src={beachView} alt="" />
           </span>
           <p>
-            Christina is wonderful, brilliant, and beautiful; smart, funny, and quick; kind, considerate, and caring. 
+            Christina Marie Quinn is something special.
+          </p>
+          <p>
+            Talking with her is the best. She is funny, quicjk witted, and smart.
+            She has a deep understanding of her interests and is adept at exploring new ideas.
+            She is critical yet understanding. She is reflective and wise.
+          </p>
+          <p>
+            There is no better friend. She is compassionate while maintaining high expectations for herself and the people she cares about.
+            She is exciting and comforting. She is interesting and interested. She is peace and strength.
+          </p>
+          <p>
+            Elegant, graceful, and every adjective above, she is a rad person to party with.
+            Whether hosted or attended with her is a better time. 
+            As a host she is diligent, meticulous, considerate, and creative.
+            Attending parties with her is just more fun.
+          </p>
+          <p>
+            She has great taste in food and places and is adventurous.
+            She quickly recognizes something worthwhile and is good at keeping track of things to try.
+            Her thoughts on new experiences are thoughtful and insightful.
+          </p>
+          <p>
+            Also, she's smoking hot.
           </p>
           {close}
         </article>
