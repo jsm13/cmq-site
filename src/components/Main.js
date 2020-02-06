@@ -46,7 +46,7 @@ class Main extends React.Component {
           </p>
           <p>
             Elegant, graceful, and every adjective above, she is a rad person to party with.
-            Whether hosted or attended with her is a better time. 
+            Whether hosted or attended with her, a party is a better time. 
             As a host she is diligent, meticulous, considerate, and creative.
             Attending parties with her is just more fun.
           </p>
