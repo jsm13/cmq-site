@@ -36,7 +36,7 @@ class Main extends React.Component {
             Christina Marie Quinn is something special.
           </p>
           <p>
-            Talking with her is the best. She is funny, quicjk witted, and smart.
+            Talking with her is the best. She is funny, quick witted, and smart.
             She has a deep understanding of her interests and is adept at exploring new ideas.
             She is critical yet understanding. She is reflective and wise.
           </p>
