@@ -1,7 +1,5 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-import pic01 from '../images/pic01.jpg'
-import harbourvestLogo from '../images/harbourvest-logo.jpg'
 import beachView from '../images/beach-view-rhode-island.jpg'
 
 class Main extends React.Component {
@@ -33,6 +31,10 @@ class Main extends React.Component {
             <img src={beachView} alt="" />
           </span>
           <p>
+            Enthusiastic, hard-working strategist with expertise in financial product development, content creation, and capital raising. 
+            Passionate about fostering inclusive innovation, investing for greater good, advancing women's business initiatives, and empowering entrepreneurs...sometimes all at once! 
+          </p>
+          {/* <p>
             Christina Marie Quinn is something special.
           </p>
           <p>
@@ -57,7 +59,7 @@ class Main extends React.Component {
           </p>
           <p>
             Also, she's smoking hot.
-          </p>
+          </p> */}
           {close}
         </article>
 
@@ -69,9 +71,6 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Work</h2>
-          <span className="image main">
-            <img src={harbourvestLogo} alt="" />
-          </span>
           <h3>Senior Associate, Commercial Operations at HarbourVest Partners</h3>
           <p>
             Enthusiastic, hard-working strategist and content creator with expertise in financial product development
@@ -122,28 +121,20 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
+                href="#"
                 className="icon fa-twitter"
               >
                 <span className="label">Twitter</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-facebook">
+              <a href="#" className="icon fa-facebook">
                 <span className="label">Facebook</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-instagram">
+              <a href="#" className="icon fa-instagram">
                 <span className="label">Instagram</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://github.com/codebushi/gatsby-starter-dimension"
-                className="icon fa-github"
-              >
-                <span className="label">GitHub</span>
               </a>
             </li>
           </ul>
